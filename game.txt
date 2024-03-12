@@ -1,0 +1,22 @@
+inimigos CaveiraArqueira Arqueiro 1
+inimigos CaveiraArqueira Arqueiro 1
+inimigos CaveiraChefe Arqueiro 2
+fase 1 Um grupo de guerreiros partem para uma aventura caminhando tranquilos em uma floresta sombria e misteriosa, quando de repente escutam sons de ossos estralando. Se aproximando desse barulho eles encontram mortos vivos que os atacam. Use suas habilidades para derrotar os esqueletos!
+inimigos Gobbling Guerreiro 1
+inimigos Gobbling Guerreiro 2
+inimigos Ogro Monstro 1
+fase 2 Depois de derrotar os esqueletos eles seguem mais fundo a floresta quando se depararam com uma montanha com uma caverna, a dentro eles seguem sem outro caminho a seguir e se deparam com mais criaturas aterrorizantes. Derrote-0s para conseguir prosseguir adiante!
+inimigos CaveiraArqueira Arqueiro 2
+inimigos CaveiraArqueira Arqueiro 2
+inimigos CaveiraChefe Arqueiro 3
+fase 3 Logo eles passam essa montanha e encontram uma biforcacao que com a escolha errada levaram eles de volta ao caminho inicial, mas agora com esqueletos que havian derrotado querendo se vingar. Derrote-os e volte ao caminho anterior!
+inimigos GobblingGuerreiro Guerreiro 1
+inimigos GobblingAtirador Arqueiro 1
+inimigos Ogro Monstro 2
+fase 4 Chegando perto de seu destino, eles acabam ficando muito cansados e assim adormecem em um acampamento criado por eles, criaturas ficam a sua volta e partem pra cima enquanto dormem, com o susto o grupo acorda e enfrenta os monstros. Derrote os para prosseguir!
+inimigos GobblingGuerreiro Guerreiro 1
+inimigos Ogro Monstro 3
+fase 5 Com o destino final chegando para os aventureiros, eles precisam completar o ultimo nivel da floresta onde enfrentam o mais perigoso monstro da floresta. Logo o avistam por ser um monstro grande e muito forte. Enfrente-os e chegue ao destino dos guerreiros!
+fim
+
+
