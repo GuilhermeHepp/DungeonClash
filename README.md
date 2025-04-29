@@ -1,18 +1,28 @@
-## Getting Started
+RPG em Java — Programação Orientada a Objetos
+Este projeto é um jogo de RPG desenvolvido em Java como parte da disciplina de Programação Orientada a Objetos.
+O jogo é baseado em batalhas entre personagens com diferentes atributos e habilidades, utilizando conceitos essenciais de POO, como herança, polimorfismo, abstração e encapsulamento.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Funcionalidades
+Criação de personagens de diferentes classes (ex: guerreiro, mago, arqueiro).
 
-## Folder Structure
+Sistema de combate por turnos.
 
-The workspace contains two folders by default, where:
+Atributos personalizados (força, defesa, magia, etc.).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Habilidades específicas para cada tipo de personagem.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Evolução dos personagens através de ganho de experiência.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Interação por meio do console (não possui interface gráfica).
 
-## Dependency Management
+Objetivos do Projeto
+Aplicar os conceitos de Programação Orientada a Objetos na prática.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Desenvolver uma estrutura de código organizada, modular e reutilizável.
+
+Exercitar a modelagem de classes, herança, composição e interações entre objetos.
+
+Tecnologias Utilizadas
+Java (versão atualizada)
+
+Execução via console (terminal)
